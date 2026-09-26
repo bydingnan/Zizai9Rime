@@ -28,3 +28,9 @@ package/
 # VueJS
 /Packages/HamsterFileServer/Front/node_modules
 /Packages/HamsterFileServer/Front/dist/*
+# local download scratch
+.fw-tmp/
+.tmp/
+.deps/
+.plum/
+Frameworks/*.xcframework

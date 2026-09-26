@@ -758,12 +758,12 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Hamster/Assets/Preview Content\"";
-				DEVELOPMENT_TEAM = M4N6995A28;
+				DEVELOPMENT_TEAM = B9UWL2G7ZM;
 				ENABLE_BITCODE = NO;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Hamster/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = Hamster;
+				INFOPLIST_KEY_CFBundleDisplayName = "字在9";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_LSSupportsOpeningDocumentsInPlace = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
@@ -780,7 +780,7 @@
 				);
 				MARKETING_VERSION = 3.0.0;
 				OTHER_LDFLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = dev.fuxiao.app.Hamster;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dingnan.zizai9rime;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_STYLE = "non-global";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
@@ -802,12 +802,12 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Hamster/Assets/Preview Content\"";
-				DEVELOPMENT_TEAM = M4N6995A28;
+				DEVELOPMENT_TEAM = B9UWL2G7ZM;
 				ENABLE_BITCODE = NO;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Hamster/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = Hamster;
+				INFOPLIST_KEY_CFBundleDisplayName = "字在9";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_LSSupportsOpeningDocumentsInPlace = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
@@ -824,7 +824,7 @@
 				);
 				MARKETING_VERSION = 3.0.0;
 				OTHER_LDFLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = dev.fuxiao.app.Hamster;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dingnan.zizai9rime;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_STYLE = "non-global";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
@@ -843,10 +843,10 @@
 				CODE_SIGN_ENTITLEMENTS = HamsterKeyboard/HamsterKeyboard.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = M4N6995A28;
+				DEVELOPMENT_TEAM = B9UWL2G7ZM;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HamsterKeyboard/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = HamsterKeyboard;
+				INFOPLIST_KEY_CFBundleDisplayName = "字在9";
 				INFOPLIST_KEY_LSSupportsOpeningDocumentsInPlace = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
@@ -857,7 +857,7 @@
 				);
 				MARKETING_VERSION = 3.0.0;
 				OTHER_LDFLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = dev.fuxiao.app.Hamster.HamsterKeyboard;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dingnan.zizai9rime.keyboard;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				STRIP_STYLE = "non-global";
@@ -875,10 +875,10 @@
 				CODE_SIGN_ENTITLEMENTS = HamsterKeyboard/HamsterKeyboard.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = M4N6995A28;
+				DEVELOPMENT_TEAM = B9UWL2G7ZM;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HamsterKeyboard/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = HamsterKeyboard;
+				INFOPLIST_KEY_CFBundleDisplayName = "字在9";
 				INFOPLIST_KEY_LSSupportsOpeningDocumentsInPlace = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
@@ -889,7 +889,7 @@
 				);
 				MARKETING_VERSION = 3.0.0;
 				OTHER_LDFLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = dev.fuxiao.app.Hamster.HamsterKeyboard;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dingnan.zizai9rime.keyboard;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				STRIP_STYLE = "non-global";
@@ -905,11 +905,11 @@
 				CODE_SIGN_ENTITLEMENTS = SbxlmKeyboard/SbxlmKeyboard.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = M4N6995A28;
+				DEVELOPMENT_TEAM = B9UWL2G7ZM;
 				GCC_C_LANGUAGE_STANDARD = gnu17;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = SbxlmKeyboard/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = SbxlmKeyboard;
+				INFOPLIST_KEY_CFBundleDisplayName = "字在9声笔";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -920,7 +920,7 @@
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MARKETING_VERSION = 3.0.0;
 				OTHER_LDFLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = dev.fuxiao.app.Hamster.SbxlmKeyboard;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dingnan.zizai9rime.sbxlm;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				STRIP_STYLE = "non-global";
@@ -937,11 +937,11 @@
 				CODE_SIGN_ENTITLEMENTS = SbxlmKeyboard/SbxlmKeyboard.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = M4N6995A28;
+				DEVELOPMENT_TEAM = B9UWL2G7ZM;
 				GCC_C_LANGUAGE_STANDARD = gnu17;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = SbxlmKeyboard/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = SbxlmKeyboard;
+				INFOPLIST_KEY_CFBundleDisplayName = "字在9声笔";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -952,7 +952,7 @@
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MARKETING_VERSION = 3.0.0;
 				OTHER_LDFLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = dev.fuxiao.app.Hamster.SbxlmKeyboard;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dingnan.zizai9rime.sbxlm;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				STRIP_STYLE = "non-global";
