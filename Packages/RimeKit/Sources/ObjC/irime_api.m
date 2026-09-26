@@ -417,7 +417,11 @@ static RimeLeversApi *get_levers() {
 }
 
 - (BOOL)replaceInputKeys:(NSString *)keys withStartPos:(int)pos AndCount:(int)length AndSession:(RimeSessionId)session {
-  return RimeReplaceInput(session, pos, length, [keys UTF8String]);
+  // Stock librime (amorphobia mirror) does not ship Hamster's RimeReplaceInput patch.
+  // Soft-fail; T9 digit input via ProcessKey still works. Restore when a patched
+  // LibrimeKit Frameworks.tgz is available.
+  (void)keys; (void)pos; (void)length; (void)session;
+  return NO;
 }
 
 - (NSArray<IRimeCandidate *> *)getCandidateList:(RimeSessionId)session {

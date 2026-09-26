@@ -44,3 +44,12 @@ Xcode 需在开发者账号开通 App Group `group.com.dingnan.zizai9rime`。当
 2. Bundle / App Group / Team / 显示名 → 字在9
 3. `hamster.yaml` 默认 `chineseNineGrid`
 4. Entitlements 精简为 App Group only
+
+## 已验证
+
+- `xcodebuild -scheme Hamster` → **BUILD SUCCEEDED**（Xcode 27 / iOS 16+）
+- 已装到 by的iPhone：`com.dingnan.zizai9rime`（显示名「字在9」）
+- 需在系统设置启用键盘扩展；App 内部署雾凇后选 **t9 / 中文九键**
+- 已知：`RimeReplaceInput` 在公开 librime 镜像中缺失，已 stub（前缀替换暂软失败）
+- 已从主 target 去掉 Sbxlm / `boost_locale`（缺二进制）
+- Runestone 升至 0.5.2，TreeSitterLanguages 0.1.10

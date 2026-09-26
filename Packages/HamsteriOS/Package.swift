@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
   name: "HamsteriOS",
   platforms: [
-    .iOS(.v15),
+    .iOS(.v16),
   ],
   products: [
     .library(
@@ -15,8 +15,8 @@ let package = Package(
   ],
   dependencies: [
     .package(url: "https://github.com/relatedcode/ProgressHUD.git", exact: "14.1.0"),
-    .package(url: "https://github.com/simonbs/Runestone.git", exact: "0.3.0"),
-    .package(url: "https://github.com/simonbs/TreeSitterLanguages.git", exact: "0.1.7"),
+    .package(url: "https://github.com/simonbs/Runestone.git", exact: "0.5.2"),
+    .package(url: "https://github.com/simonbs/TreeSitterLanguages.git", exact: "0.1.10"),
     .package(path: "../HamsterUIKit"),
     .package(path: "../HamsterKit"),
     .package(path: "../RimeKit"),

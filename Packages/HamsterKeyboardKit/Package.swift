@@ -7,7 +7,7 @@ let package = Package(
   name: "HamsterKeyboardKit",
   defaultLocalization: "zh-Hans",
   platforms: [
-    .iOS(.v15),
+    .iOS(.v16),
   ],
   products: [
     .library(name: "HamsterKeyboardKit", targets: ["HamsterKeyboardKit"]),
